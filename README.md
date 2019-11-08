@@ -3,6 +3,7 @@
 
 
 | Unit name | vsftpd.service |
+| --- | --- |
 | Firewalld service | FTP |
 | TCP Wrapper | vsftpd |
 | SELinux module | ftp 1.14.1 |
@@ -23,13 +24,7 @@
 ```
 
 
-```
-| name | age |
-| --- | --- |
-| man   | 11 |
-| woman | 12 |
-| monkey | 13 |
-```
+
 
 | name | age |
 | --- | --- |
