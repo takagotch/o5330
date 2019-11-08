@@ -31,5 +31,5 @@
 
 
 
-[vsftpd]: (https://security.appspot.com/vsftpd.html)
+[vsftpd](https://security.appspot.com/vsftpd.html)
 
