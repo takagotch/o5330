@@ -2,7 +2,6 @@
 ---
 
 
-```
 | Unit name | vsftpd.service |
 | Firewalld service | FTP |
 | TCP Wrapper | vsftpd |
@@ -16,7 +15,6 @@
 | Target | multi-usr.target |
 
 
-```
 
 ```
 ```
