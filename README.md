@@ -1,6 +1,9 @@
 ### vsftpd
 ---
 
+[vsftpd]: https://security.appspot.com/vsftpd.html
+
+
 
 | Unit name | vsftpd.service |
 | --- | --- |
@@ -26,13 +29,3 @@
 
 
 
-| name | age |
-| --- | --- |
-| man   | 11 |
-| woman | 12 |
-| monkey | 13 |
-
-
-ヘッダ行を `:---` にすると左寄せに、`---:` にすると右寄せになります。 `:---:` で中央寄せになります。
-
-```
