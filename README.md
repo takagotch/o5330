@@ -1,6 +1,6 @@
 ### [vsftpd](https://security.appspot.com/vsftpd.html)
 ---
-https://security.appspot.com/vsftpd.html)
+https://security.appspot.com/vsftpd.html
 
 ***
 
